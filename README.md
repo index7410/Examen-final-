@@ -11,9 +11,7 @@
         - Modificar (PATH)
         - Eliminar (DEL)
         - Crear (POST)
-        - Crear un proyecto en React JS (10 puntos)
-        - Implementar los componentes de Material UI
-
+        
 - React js
 Crear una tabla para listar los alumnos
 Crear un formulario para guardar registros de nuevos alumnos
